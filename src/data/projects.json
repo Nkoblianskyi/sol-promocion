@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "Campaña de Vallas Publicitarias para Lanzamiento de Producto",
+    "slug": "campana-vallas-lanzamiento-producto",
+    "client": "Empresa de Cosmética Natural",
+    "category": "Vallas Publicitarias",
+    "excerpt": "Estrategia integral de vallas publicitarias para el lanzamiento de una nueva línea de productos cosméticos naturales en Madrid y Barcelona.",
+    "description": "Desarrollamos una campaña estratégica de vallas publicitarias para el lanzamiento de la nueva línea de cosméticos naturales. El objetivo era generar conocimiento de marca y comunicar los beneficios clave de los productos a un público urbano interesado en la belleza sostenible. Seleccionamos ubicaciones estratégicas en Madrid y Barcelona, con alta visibilidad en zonas comerciales y de ocio frecuentadas por el público objetivo. El diseño visual destacaba la pureza de los ingredientes naturales con una estética minimalista y elegante que reflejaba los valores de la marca.",
+    "image": "/images/projects/naturalia-billboard.png",
+    "gallery": [
+      "/images/projects/naturalia-billboard-1.png",
+      "/images/projects/naturalia-billboard-2.png",
+      "/images/projects/naturalia-billboard-3.png"
+    ],
+    "results": [
+      {
+        "title": "Incremento en Ventas",
+        "value": "32%"
+      },
+      {
+        "title": "Reconocimiento de Marca",
+        "value": "+45%"
+      },
+      {
+        "title": "Tráfico a Tiendas",
+        "value": "+28%"
+      },
+      {
+        "title": "ROI de la Campaña",
+        "value": "3.5x"
+      }
+    ],
+    "date": "Marzo - Mayo 2025",
+    "location": "Madrid y Barcelona",
+    "services": ["Vallas Publicitarias", "Diseño Gráfico", "Planificación Estratégica"]
+  },
+  {
+    "id": 2,
+    "title": "Catálogos y Folletos para Feria Inmobiliaria",
+    "slug": "catalogos-folletos-feria-inmobiliaria",
+    "client": "Grupo Inmobiliario",
+    "category": "Folletos y Catálogos",
+    "excerpt": "Diseño y producción de catálogos premium y folletos informativos para la presentación de nuevos desarrollos inmobiliarios en una feria sectorial.",
+    "description": "Para la participación en la Feria Inmobiliaria de España 2025, desarrollamos una serie de materiales impresos de alta calidad que presentaban nuevos proyectos residenciales y comerciales. Creamos un catálogo premium de 40 páginas con acabados de lujo que mostraba los desarrollos más exclusivos, complementado con folletos específicos para cada proyecto. El diseño combinaba fotografías arquitectónicas de alta calidad, renderizados 3D y planos detallados, con una narrativa que enfatizaba el estilo de vida y las características únicas de cada desarrollo.",
+    "image": "/images/projects/horizonte-catalog.png",
+    "gallery": [
+      "/images/projects/horizonte-catalog-1.png",
+      "/images/projects/horizonte-catalog-2.png",
+      "/e716d2333ac39f454c15c0188c718c2d.jpg"
+    ],
+    "results": [
+      {
+        "title": "Leads Generados",
+        "value": "215"
+      },
+      {
+        "title": "Reservas de Propiedades",
+        "value": "18"
+      },
+      {
+        "title": "Valoración de Materiales",
+        "value": "9.2/10"
+      },
+      {
+        "title": "ROI de la Inversión",
+        "value": "4.8x"
+      }
+    ],
+    "date": "Febrero 2025",
+    "location": "Valencia",
+    "services": ["Folletos y Catálogos", "Diseño Gráfico", "Impresión de Alta Calidad"]
+  },
+  {
+    "id": 3,
+    "title": "Campaña Publicitaria en Autobuses Urbanos",
+    "slug": "campana-publicitaria-autobuses",
+    "client": "Academia de Idiomas",
+    "category": "Publicidad en Transporte",
+    "excerpt": "Campaña integral en autobuses urbanos para promocionar cursos de idiomas, cubriendo rutas estratégicas en Sevilla.",
+    "description": "Diseñamos e implementamos una campaña publicitaria en autobuses urbanos para promocionar cursos intensivos de verano. La campaña incluyó rotulación completa de 15 autobuses que cubrían rutas estratégicas en Sevilla, pasando por universidades, zonas de oficinas y áreas residenciales con alta concentración de jóvenes profesionales y estudiantes. El diseño visual era vibrante y multicultural, incorporando elementos de diferentes idiomas y culturas, con mensajes claros sobre los beneficios de aprender idiomas y una llamada a la acción directa.",
+    "image": "/88238a9dbd42608053ae658f93872abf.jpg",
+    "gallery": [
+      "/ea7cf155137b6d44d588851c42ca7c54.jpg",
+      "/58d224e44c28fe33cd41a025cc23bcd4.jpg",
+      "/74d50afb671a258247991efa52b25e18.jpg"
+    ],
+    "results": [
+      {
+        "title": "Nuevas Inscripciones",
+        "value": "+42%"
+      },
+      {
+        "title": "Visitas al Sitio Web",
+        "value": "+156%"
+      },
+      {
+        "title": "Llamadas Recibidas",
+        "value": "+89%"
+      },
+      {
+        "title": "Retorno de Inversión",
+        "value": "3.2x"
+      }
+    ],
+    "date": "Abril - Mayo 2025",
+    "location": "Sevilla",
+    "services": ["Publicidad en Transporte", "Diseño Gráfico", "Planificación de Rutas"]
+  },
+  {
+    "id": 4,
+    "title": "Campaña Publicitaria en Estaciones de Metro",
+    "slug": "campana-publicitaria-metro",
+    "client": "Festival de Música",
+    "category": "Publicidad en Metro",
+    "excerpt": "Campaña inmersiva en estaciones de metro clave para promocionar un festival de música urbana en Madrid.",
+    "description": "Creamos una campaña publicitaria inmersiva en estaciones de metro seleccionadas para promocionar un Festival de Música en Madrid. La campaña transformó cinco estaciones estratégicas con una combinación de carteles, vinilos en paredes y suelos, y elementos interactivos que permitían a los pasajeros escanear códigos QR para escuchar muestras de los artistas participantes. El diseño visual era dinámico y contemporáneo, reflejando la energía del festival y destacando el cartel de artistas. La campaña se concentró en estaciones cercanas a universidades y zonas de ocio frecuentadas por el público objetivo del festival.",
+    "image": "/ae0562cf30bdefb31859a25128d62f30.jpg",
+    "gallery": [
+      "/a4941e9e0cb8f63d2406c375215cf93e.jpg",
+      "/544bebe268143bbfc52e0c76cc4539ff.jpg",
+      "/4fe7d8883eb71b876d3d3794786d310b.jpg"
+    ],
+    "results": [
+      {
+        "title": "Venta de Entradas",
+        "value": "+38%"
+      },
+      {
+        "title": "Interacciones con QR",
+        "value": "12,450"
+      },
+      {
+        "title": "Menciones en Redes",
+        "value": "3,200+"
+      },
+      {
+        "title": "Ocupación del Festival",
+        "value": "98%"
+      }
+    ],
+    "date": "Mayo 2025",
+    "location": "Madrid",
+    "services": ["Publicidad en Metro", "Diseño Gráfico", "Marketing Interactivo"]
+  },
+  {
+    "id": 5,
+    "title": "Rediseño de Identidad Visual Corporativa",
+    "slug": "rediseno-identidad-visual",
+    "client": "Red de Clínicas Dentales",
+    "category": "Diseño Gráfico",
+    "excerpt": "Renovación completa de la identidad visual de una red de clínicas dentales, incluyendo logo, papelería y señalética.",
+    "description": "Llevamos a cabo un rediseño integral de la identidad visual corporativa para una red de clínicas dentales, con el objetivo de modernizar su imagen y reflejar mejor sus valores de profesionalidad, calidez y tecnología avanzada. El proyecto incluyó el rediseño del logotipo, desarrollo de un sistema visual completo con paleta de colores, tipografías y elementos gráficos, y aplicación a toda la papelería corporativa, señalética de las clínicas, uniformes del personal y materiales promocionales. El nuevo diseño logró un equilibrio entre profesionalidad médica y accesibilidad, utilizando colores cálidos y formas redondeadas que transmiten confianza y bienestar.",
+    "image": "/7819ec359255242d33bb8de2e28e3f15.jpg",
+    "gallery": [
+      "/8baffef3ee9bd1822a104d1e86d13be4.jpg",
+      "/4b3741cc531e22908bb5572077d57799.jpg",
+      "/804148e49d534b45bc30c95acc51f556.jpg"
+    ],
+    "results": [
+      {
+        "title": "Percepción de Marca",
+        "value": "+62%"
+      },
+      {
+        "title": "Nuevos Pacientes",
+        "value": "+25%"
+      },
+      {
+        "title": "Satisfacción de Empleados",
+        "value": "92%"
+      },
+      {
+        "title": "Reconocimiento de Marca",
+        "value": "+40%"
+      }
+    ],
+    "date": "Enero - Marzo 2025",
+    "location": "Barcelona, Valencia, Zaragoza",
+    "services": ["Diseño Gráfico", "Identidad Corporativa", "Señalética"]
+  },
+  {
+    "id": 6,
+    "title": "Campaña Multicanal para Centro Comercial",
+    "slug": "campana-multicanal-centro-comercial",
+    "client": "Centro Comercial",
+    "category": "Campaña Integral",
+    "excerpt": "Estrategia publicitaria multicanal para el 10º aniversario de un centro comercial, combinando vallas, folletos y publicidad en transporte.",
+    "description": "Desarrollamos una campaña publicitaria integral para celebrar el 10º aniversario de un centro comercial. La estrategia multicanal incluyó vallas publicitarias en las principales vías de acceso a la ciudad, publicidad en autobuses urbanos que conectaban con el centro comercial, folletos promocionales distribuidos en hogares de la zona, y elementos decorativos especiales dentro del propio centro. Todos los materiales compartían una identidad visual festiva y coherente, centrada en el concepto '10 Años Creando Experiencias', con promociones especiales y eventos programados durante un mes de celebración. La campaña logró aumentar significativamente el tráfico de visitantes y las ventas durante el período promocional.",
+    "image": "/57417ce5e694fb8506bdf0fc32d4b2b8.jpg",
+    "gallery": [
+      "/8a03b423299a0207b7169b810906e169.jpg",
+      "/6486ae3ed726bc8a3cf443b1b7ad3971.jpg",
+      "/b221e18790b9c18cfbe84c6902963e84.jpg"
+    ],
+    "results": [
+      {
+        "title": "Incremento de Visitantes",
+        "value": "+45%"
+      },
+      {
+        "title": "Aumento en Ventas",
+        "value": "+37%"
+      },
+      {
+        "title": "Participación en Eventos",
+        "value": "12,800 personas"
+      },
+      {
+        "title": "Retorno de Inversión",
+        "value": "5.2x"
+      }
+    ],
+    "date": "Abril - Mayo 2025",
+    "location": "Málaga",
+    "services": ["Vallas Publicitarias", "Publicidad en Transporte", "Folletos y Catálogos", "Diseño Gráfico"]
+  }
+]
