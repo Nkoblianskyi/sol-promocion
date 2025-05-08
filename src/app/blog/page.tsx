@@ -28,7 +28,7 @@ export default function BlogPage() {
 
       <div className="flex flex-col md:flex-row gap-8 mb-12">
         <div className="md:w-3/4">
-          <div className="grid md:grid-cols-2 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             {posts.map((post) => (
               <Card key={post.id} className="flex flex-col h-full hover:shadow-lg transition-shadow">
                 <CardHeader className="p-0">
