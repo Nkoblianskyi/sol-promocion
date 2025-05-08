@@ -31,23 +31,23 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/servicios/publicidad-en-transporte" className="text-gray-400 hover:text-white transition">
+                <Link href="/servicios/publicidad-transporte" className="text-gray-400 hover:text-white transition">
                   Publicidad en Transporte
                 </Link>
               </li>
               <li>
-                <Link href="/servicios/produccion-grafica" className="text-gray-400 hover:text-white transition">
+                <Link href="/servicios/diseno-grafico" className="text-gray-400 hover:text-white transition">
                   Producción Gráfica
                 </Link>
               </li>
               <li>
-                <Link href="/servicios/marketing-ferial" className="text-gray-400 hover:text-white transition">
-                  Marketing Ferial
+                <Link href="/servicios/publicidad-metro" className="text-gray-400 hover:text-white transition">
+                  Publicidad en Metro
                 </Link>
               </li>
               <li>
-                <Link href="/servicios/publicidad-en-metro" className="text-gray-400 hover:text-white transition">
-                  Publicidad en Metro
+                <Link href="/servicios/folletos" className="text-gray-400 hover:text-white transition">
+                Folletos y Catálogos
                 </Link>
               </li>
             </ul>
