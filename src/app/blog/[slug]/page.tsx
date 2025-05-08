@@ -75,9 +75,6 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           <RelatedPosts currentPostId={post.id} />
         </div>
 
-        <div className="md:w-1/4">
-          <BlogSidebar />
-        </div>
       </div>
     </div>
   )

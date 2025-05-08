@@ -61,12 +61,8 @@ export default function BlogPage() {
             ))}
           </div>
 
-          <BlogPagination totalPages={3} currentPage={1} />
         </div>
 
-        <div className="md:w-1/4">
-          <BlogCategories />
-        </div>
       </div>
     </div>
   )
